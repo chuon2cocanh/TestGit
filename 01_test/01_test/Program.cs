@@ -15,6 +15,9 @@ namespace _01_test
 
 
             //this is comement
+            //xin chào
+
+            
         }
     }
 }
