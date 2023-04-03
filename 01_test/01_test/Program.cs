@@ -17,6 +17,7 @@ namespace _01_test
             //this is comement
             //xin chào
             //ok nha
+            // duma ghê v
 
             
         }
