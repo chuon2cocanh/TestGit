@@ -19,7 +19,14 @@ namespace _01_test
             //ok nha
             // duma ghê v
 
+           
+
             
+        }
+
+        public static int Sum(int a , int b)
+        {
+            return a + b;
         }
     }
 }
